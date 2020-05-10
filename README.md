@@ -1,5 +1,4 @@
 # Sorting-Analysis
-## Some Common Sorting Algorithms
 ## Some of the most common sorting algorithms are:
 •	Selection Sort
 •	Bubble Sort
@@ -10,6 +9,7 @@
 •	Counting Sort
 •	Radix Sort
 •	Bucket Sort
+
  But before we get into each of these, let's learn a bit more about what makes classifies a sorting algorithm.
 ## Classification of a Sorting Algorithm
 ## Sorting algorithms can be categorized based on the following parameters:
